@@ -8,11 +8,11 @@
 		<version>3.0.3-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.minicore</groupId>
-	<artifactId>mini-core</artifactId>
+	<groupId>com.ingweb</groupId>
+	<artifactId>ing_web_mincore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mini-core</name>
-	<description>mini core </description>
+	<name>ing_web_mincore</name>
+	<description>proyecto ingweb</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
