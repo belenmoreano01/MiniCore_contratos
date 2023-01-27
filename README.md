@@ -17,6 +17,7 @@ Explicación creación de un proyecto - CRUD: https://www.youtube.com/watch?v=iW
 
 Deployar: https://www.youtube.com/watch?v=D1GJKd62l-A&t=726s
 
-Contactos:
+### Contactos:
 belen_moreano25@hotmail.com
+
 andrea.moreano.herrera@udla.edu.ec
